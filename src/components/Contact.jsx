@@ -14,11 +14,16 @@ const Contact = () => {
             shorts stumptown locavore cray tofu beard post-ironic readymade
             hoodie glossier scenester.
           </p>
-          <form className="contact-form">
+          <form
+            className="contact-form"
+            action="https://formspree.io/f/xnqoooan"
+            method="POST"
+          >
             <input
               type="email"
               className="form-input"
               placeholder="enter email"
+              name="_replyto"
             />
             <button type="submit" className="submit-btn">
               subscribe
