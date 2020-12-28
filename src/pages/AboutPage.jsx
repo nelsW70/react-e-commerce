@@ -20,7 +20,12 @@ const AboutPage = () => {
             tattooed bushwick sustainable crucifix enamel pin taxidermy
             try-hard. Ramps iceland trust fund actually health goth. Affogato
             XOXO chartreuse humblebrag, meditation iceland tacos wayfarers
-            kitsch master cleanse.
+            kitsch master cleanse.Direct trade coloring book listicle tousled
+            banh mi. Sriracha thundercats street art af. Tbh lo-fi vinyl poke,
+            woke prism VHS iceland trust fund man bun. Jean shorts fam kale
+            chips cold-pressed, cloud bread poutine selvage listicle photo booth
+            trust fund kombucha single-origin coffee raclette. Mustache green
+            juice brooklyn wolf banjo church-key food truck pickled fixie.
           </p>
         </article>
       </Wrapper>
