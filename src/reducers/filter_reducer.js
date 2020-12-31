@@ -90,7 +90,6 @@ const filter_reducer = (state, action) => {
     return { ...state, filtered_products: tempProducts };
   }
   if (action.type === CLEAR_FILTERS) {
-    console.log('clear filters');
     return {
       ...state,
       filters: {
