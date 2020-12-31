@@ -7,7 +7,9 @@ const CheckoutPage = () => {
     <main>
       <PageHero title="checkout" />
       <Wrapper className="page">
-        <h1>checkout here</h1>
+        <section className="section section-center">
+          <h1>checkout here...if this was real</h1>
+        </section>
       </Wrapper>
     </main>
   );
